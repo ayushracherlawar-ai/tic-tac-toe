@@ -20,16 +20,19 @@ Ultimate Tic-Tac-Toe is a modern React-based web game featuring an intelligent A
    <img width="850" src="./assets/gameplay.png"> 
 </p> 
 
-## 🌙 Dark Mode 
-<p align="center">
-   <img width="850" src="./assets/darkmode.png"> 
-</p> 
-
-## ☀️ Light Mode 
-<p align="center"> 
-   <img width="850" src="./assets/lightmode.png"> 
-</p>
-
+## ☀️Theme
+<table>
+<tr>
+    <td align="center">
+      <img src="./assets/darkmode.png" width="300"/>
+      <br><b>🌙 Dark Mode</b>
+    </td>
+    <td align="center">
+      <img src="./assets/lightmode.png" width="300"/>
+      <br><b>☀️ Light mode</b>
+    </td>
+  </tr>
+</table>
 
 
 ## Features
