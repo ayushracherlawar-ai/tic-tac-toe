@@ -122,12 +122,6 @@ The game is fully optimized for:
    ```
 2. Open `index.html` in your browser (double-click the file or use Live Server in VS Code).
 
-### GitHub Pages (optional)
-
-If this folder is the site root, enable **GitHub Pages** in the repo settings and set the source to the branch/folder that contains `index.html`. Visit:
-
-`https://ayushracherlawar-ai.github.io/tic-tac-toe/`
-
 ## How to Play
 
 1. **X** always goes first.
